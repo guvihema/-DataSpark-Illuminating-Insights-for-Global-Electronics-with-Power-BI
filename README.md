@@ -25,10 +25,15 @@ This repository contains a comprehensive data analysis and strategic recommendat
 
 # Contents
 1.Data_Spark.ipynb: Jupyter Notebook containing the data cleaning, preprocessing, and analysis steps.
+
 2.Report.pdf: Comprehensive data analysis and strategic recommendations report.
+
 3.Datasets/: Folder containing the raw and cleaned datasets used in the analysis.
+
 4.Visualizations/: Folder containing visualizations and dashboards created during the analysis.
+
 5.SQL_Queries.sql: File containing SQL queries used in the analysis.
+
 6.README.md: Detailed project overview and instructions.
 
 # Instructions
