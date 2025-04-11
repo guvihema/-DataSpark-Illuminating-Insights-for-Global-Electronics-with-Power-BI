@@ -6,6 +6,10 @@ DataSpark: Illuminating Insights for Global Electronics
 
 This repository contains a comprehensive data analysis and strategic recommendations report for Global Electronics, a leading retailer in the consumer electronics industry. The project involves data cleaning, preprocessing, exploratory data analysis (EDA), and actionable insights derived from customer, product, sales, and store data. The report includes detailed analyses, visualizations, and recommendations to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions.
 
+Domain Retail Analytics in the Electronics Industry
+
+Problem Statement As a member of Global Electronics' data analytics team, your primary task is to conduct a comprehensive Exploratory Data Analysis (EDA) using datasets provided by the company. The goal is to extract valuable insights that can lead to improved marketing strategies, optimized inventory management, better sales forecasting, and more informed decision-making regarding product development and store operations. This project will help Global Electronics better understand their business, identify areas for improvement, and ultimately drive business growth.
+
 # Key Objectives
 
 1. Enhance customer satisfaction
